@@ -1,0 +1,7 @@
+#wrapper {
+  background-color: gray;
+}
+.col-xs-4:hover {
+  border: 10px solid black;
+  background-color: rgba(0, 0, 0, 0.1);
+}
